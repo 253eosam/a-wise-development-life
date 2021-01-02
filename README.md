@@ -1,2 +1,2 @@
-# cs-note
-개발하면서 쌓아가는 지식을 공유하는 공간
+# wise development life
+슬기로운 개발생활
