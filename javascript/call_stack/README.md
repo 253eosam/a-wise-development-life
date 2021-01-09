@@ -2,6 +2,8 @@
 
 > 자바스크립트 함수 실행 - call stack, event loop, tasks
 
+<br>
+
 ## In summary
 
 1. 싱글 스레드. 한번에 한가지의 일만 할 수 있다는 뜻.
@@ -9,11 +11,15 @@
 3. 함수 호출은 임시 메모리를 차지하는 스택 프레임을 생성합니다.
 4. LIFO - Last in, First Out 구조. (후입선출)
 
+<br>
+
 ## Js is a single threaded
 
 한번에 하나의 작업 또는 코드 조각을 처리할 수 있습니다.
 
 ![call_stack](./call_stack_img1.png)
+
+<br>
 
 ## Call stack
 
