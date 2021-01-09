@@ -14,7 +14,7 @@
 
 닉네임 브랜치를 생성한 후 카테고리 형식으로 디렉토리를 생성하고 정리한 내용 & 목차를 추가한 후 PR 요청합니다.
 
-글 작성 방법은 자유이며 본인의 블로그 글을 연결해도 좋습니다.
+글의 주제와 내용 및 작성 방법은 자유입니다.
 
 <br>
 
@@ -22,6 +22,4 @@
 
 > [제목] (링크) | 작성자
 
-1. [Docker를 사용하여 간단한 디비 셋팅](https://www.notion.so/donaldd/Docker-2a385060554b429aac487405550d11fc) | [@DDD05](https://github.com/ddd05)
-2. [ESLint & Prettier](https://www.notion.so/donaldd/ESLint-Prettier-74c6bab84b8949f3adf45f05e885939f) | [@DDD05](https://github.com/ddd05)
-3. [JS - call stack](./javascript/call_stack/README.md) | [@DDD05](https://github.com/ddd05) 
+1. [JS - call stack](./javascript/call_stack/README.md) | [@DDD05](https://github.com/ddd05) 
