@@ -24,3 +24,4 @@
 
 1. [Docker를 사용하여 간단한 디비 셋팅](https://www.notion.so/donaldd/Docker-2a385060554b429aac487405550d11fc) | [@DDD05](https://github.com/ddd05)
 2. [ESLint & Prettier](https://www.notion.so/donaldd/ESLint-Prettier-74c6bab84b8949f3adf45f05e885939f) | [@DDD05](https://github.com/ddd05)
+3. [JS - call stack](./javascript/call_stack/README.md) | [@DDD05](https://github.com/ddd05) 
