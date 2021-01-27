@@ -24,6 +24,7 @@
 
 1. [JS - call stack](./javascript/call_stack/README.md) | [@DDD05](https://github.com/ddd05)
 
-2. [JS - 원시 자료형](./javascript/data_structure/readme.md) | [@DDD05](https://github.com/ddd05)
+2. [JS - 함수지향](./javascript/functional_orientation_programming/readme.md) | [@DDD05](https://github.com/ddd05)
 
-3. [JS - 함수지향](./javascript/functional_orientation_programming/readme.md) | [@DDD05](https://github.com/ddd05)
+
+
