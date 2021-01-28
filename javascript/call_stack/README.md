@@ -55,6 +55,8 @@ algo.js:2 Uncaught Error: Oops!
 */
 ```
 
+![call_stack](https://miro.medium.com/max/600/1*E3zTWtEOiDWw7d0n7Vp-mA.gif)
+
 <br>
 
 ## Heap
