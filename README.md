@@ -26,5 +26,5 @@
 
 2. [JS - 함수지향](./javascript/functional_orientation_programming/readme.md) | [@DDD05](https://github.com/ddd05)
 
-
+2. [JS - 객체지향](./javascript/object_orientation_programming/js-oop.md) | [@DDD05](https://github.com/ddd05)
 
